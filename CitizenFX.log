@@ -1,0 +1,1284 @@
+[         0] Initializing Mono
+[       188] Initializing Mono completed
+[       235] Hello!
+[       328] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       422] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       469] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       500] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       532] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       563] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       578] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       594] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       625] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       641] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       657] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       672] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       703] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       735] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       750] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/20tahoe
+[       766] Found new resource camaroBB in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/camaroBB
+[       797] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/EXPL
+[       813] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/mcc
+[       844] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/Rescue
+[       860] Found new resource vMenu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/vMenu
+[       875] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       907] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       922] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       938] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       969] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1000] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1032] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1063] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1078] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1094] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1203] Started resource sessionmanager
+[      3297] Started resource mapmanager
+[      3563] Started resource chat
+[      3610] Started resource spawnmanager
+[      3641] Started gametype Freeroam
+[      3641] Started resource fivem
+[      3688] Started resource hardcap
+[      3766] Started resource rconlog
+[      3891] Started resource scoreboard
+[      3953] Started resource playernames
+[      3969] Authenticating server license key...
+[      7094] Server license key authentication succeeded. Welcome!
+[      7157] Sending heartbeat to live-internal.fivem.net:30110
+[      7188] Started map fivem-map-skater
+[      7188] Started resource fivem-map-skater
+[     88563] Connecting: FadiAGH
+[    103891] Sending heartbeat to live-internal.fivem.net:30110
+[    104250] Connecting: FadiAGH
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       109] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       141] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       203] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       219] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       234] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       250] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       281] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       297] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       297] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       328] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       344] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       344] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/20tahoe
+[       359] Found new resource camaroBB in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/camaroBB
+[       375] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/EXPL
+[       391] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/mcc
+[       406] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/Rescue
+[       406] Found new resource vMenu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/vMenu
+[       437] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       437] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       453] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       469] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       484] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       500] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       500] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[       516] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[       531] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[       547] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[       594] Started resource sessionmanager
+[       656] Started resource mapmanager
+[       672] Started resource chat
+[       687] Started resource spawnmanager
+[       703] Started gametype Freeroam
+[       703] Started resource fivem
+[       719] Started resource hardcap
+[       734] Started resource rconlog
+[       750] Started resource scoreboard
+[       766] Started resource playernames
+[       781] Authenticating server license key...
+[      2609] Server license key authentication succeeded. Welcome!
+[      2656] Sending heartbeat to live-internal.fivem.net:30110
+[      2719] Started map fivem-map-hipster
+[      2734] Started resource fivem-map-hipster
+[     11156] Connecting: FadiAGH
+[     12016] Sending heartbeat to live-internal.fivem.net:30110
+[    158031] FadiAGH: s
+[    192062] Sending heartbeat to live-internal.fivem.net:30110
+[    372109] Sending heartbeat to live-internal.fivem.net:30110
+[    506844] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       422] Initializing Mono completed
+[       609] Hello!
+[       906] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       969] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[      1000] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[      1015] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[      1031] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[      1047] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[      1094] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[      1109] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[      1125] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[      1140] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[      1172] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[      1187] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[      1219] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[      1234] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[      1265] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/20tahoe
+[      1281] Found new resource camaroBB in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/camaroBB
+[      1312] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/EXPL
+[      1328] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/mcc
+[      1359] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/Rescue
+[      1375] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/lambda-menu
+[      1390] Found new resource vMenu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/vMenu
+[      1406] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[      1437] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1453] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1469] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1500] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1547] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[      1562] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1578] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1609] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1609] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1640] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1812] Started resource sessionmanager
+[      1890] Started resource mapmanager
+[      2250] Started resource chat
+[      2281] Started resource spawnmanager
+[      2312] Started gametype Freeroam
+[      2328] Started resource fivem
+[      2375] Started resource hardcap
+[      2437] Started resource rconlog
+[      2625] Started resource scoreboard
+[      2750] Started resource playernames
+[      3078] Started resource lambda-menu
+[      4015] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_925483509
+[      4156] Exception loading assembly CitizenFX.Core.Server: System.IO.FileNotFoundException: Unable to find the specified file.
+[      4156] 
+[      4172] 
+[      4172] Server stack trace: 
+[      4172]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4187]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      4187]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      4203]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      4203]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      4219]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      4219] 
+[      4219] Exception rethrown at [0]: 
+[      4234]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      4250]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      4281] Exception loading assembly CitizenFX.Core.Server: System.IO.FileNotFoundException: Unable to find the specified file.
+[      4297] 
+[      4312] 
+[      4312] Server stack trace: 
+[      4312]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4328]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      4344]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      4344]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      4344]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      4359]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      4359] 
+[      4375] Exception rethrown at [0]: 
+[      4375]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      4390]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      4562] System.IO.FileNotFoundException: Could not load file or assembly 'vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies
+[      4578] File name: 'vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+[      4578]   at System.AppDomain.Load (System.String assemblyString, System.Security.Policy.Evidence assemblySecurity, System.Boolean refonly) [0x00016] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4578]   at System.AppDomain.Load (System.String assemblyString) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4594]   at (wrapper remoting-invoke-with-check) System.AppDomain:Load (string)
+[      4609]   at System.Reflection.Assembly.Load (System.String assemblyString) [0x00005] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4609]   at System.UnitySerializationHolder.GetRealObject (System.Runtime.Serialization.StreamingContext context) [0x00135] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4625]   at System.Runtime.Serialization.ObjectManager.ResolveObjectReference (System.Runtime.Serialization.ObjectHolder holder) [0x00010] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4640]   at System.Runtime.Serialization.ObjectManager.DoFixups () [0x0007f] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4656]   at System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize (System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Runtime.Serialization.Formatters.Binary.__BinaryParser serParser, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x00077] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4656]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x000a2] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4672]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4687]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4687]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4703]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4719]   at System.Runtime.Remoting.RemotingServices.DeserializeCallData (System.Byte[] array) [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4719]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CreateAssembly (byte[],byte[])
+[      4734]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CreateAssembly (byte[],byte[])
+[      4750]   at CitizenFX.Core.MonoScriptRuntime.LoadFile (System.String scriptFile) [0x0006f] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:106 
+[      4765] Failed to load script vMenuServer.net.dll.
+[      5375] Started resource vMenu
+[      5406] Authenticating server license key...
+[     10859] GlobalError: An error occurred while checking server license key.
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       141] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       157] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       204] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       219] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       235] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       266] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       282] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       329] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       344] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       360] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       391] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/20tahoe
+[       407] Found new resource camaroBB in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/camaroBB
+[       422] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/EXPL
+[       438] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/mcc
+[       469] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/Rescue
+[       485] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/lambda-menu
+[       500] Found new resource vMenu in C:/amsterdamroleplay\cfx-server-data-master/resources//[scripts]/vMenu
+[       516] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       532] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       547] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       563] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       579] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       594] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       610] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[       625] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[       641] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[       657] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[       704] Started resource sessionmanager
+[       750] Started resource mapmanager
+[       766] Started resource chat
+[       782] Started resource spawnmanager
+[       797] Started gametype Freeroam
+[       813] Started resource fivem
+[       829] Started resource hardcap
+[       844] Started resource rconlog
+[       860] Started resource scoreboard
+[       875] Started resource playernames
+[       922] Started resource lambda-menu
+[      1641] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1777955868
+[      1750] Exception loading assembly CitizenFX.Core.Server: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1766] 
+[      1782] 
+[      1782] Server stack trace: 
+[      1797]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1797]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1813]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1829]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1829]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1844]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1844] 
+[      1860] Exception rethrown at [0]: 
+[      1875]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1875]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1938] Exception loading assembly CitizenFX.Core.Server: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1954] 
+[      1969] 
+[      1969] Server stack trace: 
+[      1985]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1985]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2000]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2000]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      2016]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2032]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      2032] 
+[      2047] Exception rethrown at [0]: 
+[      2063]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2063]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      2297] System.IO.FileNotFoundException: Could not load file or assembly 'vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies
+[      2297] File name: 'vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+[      2313]   at System.AppDomain.Load (System.String assemblyString, System.Security.Policy.Evidence assemblySecurity, System.Boolean refonly) [0x00016] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2329]   at System.AppDomain.Load (System.String assemblyString) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2329]   at (wrapper remoting-invoke-with-check) System.AppDomain:Load (string)
+[      2344]   at System.Reflection.Assembly.Load (System.String assemblyString) [0x00005] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2360]   at System.UnitySerializationHolder.GetRealObject (System.Runtime.Serialization.StreamingContext context) [0x00135] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2360]   at System.Runtime.Serialization.ObjectManager.ResolveObjectReference (System.Runtime.Serialization.ObjectHolder holder) [0x00010] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2391]   at System.Runtime.Serialization.ObjectManager.DoFixups () [0x0007f] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2407]   at System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize (System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Runtime.Serialization.Formatters.Binary.__BinaryParser serParser, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x00077] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2485]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Boolean isCrossAppDomain, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x000a2] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2500]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck, System.Runtime.Remoting.Messaging.IMethodCallMessage methodCallMessage) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2516]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler, System.Boolean fCheck) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2532]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream, System.Runtime.Remoting.Messaging.HeaderHandler handler) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2563]   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (System.IO.Stream serializationStream) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2563]   at System.Runtime.Remoting.RemotingServices.DeserializeCallData (System.Byte[] array) [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2594]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CreateAssembly (byte[],byte[])
+[      2594]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CreateAssembly (byte[],byte[])
+[      2610]   at CitizenFX.Core.MonoScriptRuntime.LoadFile (System.String scriptFile) [0x0006f] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:106 
+[      2625] Failed to load script vMenuServer.net.dll.
+[      2704] Started resource vMenu
+[      2719] Authenticating server license key...
+[      6969] Server license key authentication succeeded. Welcome!
+[      7032] Sending heartbeat to live-internal.fivem.net:30110
+[      7266] Started map fivem-map-hipster
+[      7297] Started resource fivem-map-hipster
+[      7625] hitch warning: frame time of 595 milliseconds
+[     17344] Connecting: FadiAGH
+[     18688] Sending heartbeat to live-internal.fivem.net:30110
+[    198719] Sending heartbeat to live-internal.fivem.net:30110
+[    354375] Sending heartbeat to live-internal.fivem.net:30110
+[        15] Initializing Mono
+[        78] Initializing Mono completed
+[        93] Hello!
+[       218] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       234] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       375] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       406] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       437] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       453] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       484] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       500] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       531] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       546] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       578] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       609] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       640] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       671] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       687] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       703] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/20tahoe
+[       734] Found new resource camaroBB in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/camaroBB
+[       750] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/EXPL
+[       781] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/mcc
+[       796] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/Rescue
+[       812] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       843] Resource loading for config failed:
+[       859] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       875] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       906] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       937] Resource loading for x64 failed:
+[       937] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       968] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       984] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1015] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1046] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1078] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1109] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1125] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1140] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1171] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1187] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1296] Started resource sessionmanager
+[      1406] Started resource mapmanager
+[      1750] Started resource chat
+[      1796] Started resource spawnmanager
+[      1812] Started gametype Freeroam
+[      1843] Started resource fivem
+[      1875] Started resource hardcap
+[      1937] Started resource rconlog
+[      2109] Started resource scoreboard
+[      2171] Started resource playernames
+[      2593] Started resource lambda-menu
+[      2609] ^3Couldn't find resource vMenu.^7
+[      3390] Started resource 20tahoe
+[      4078] Started resource ambulance
+[      4671] Started resource EXPL
+[      5343] Started resource camaroBB
+[      7140] Started resource Rescue
+[      7687] Started resource mcc
+[      7734] ^3Couldn't find resource [vMenu].^7
+[      7750] Authenticating server license key...
+[      8843] Server license key authentication succeeded. Welcome!
+[      8906] Sending heartbeat to live-internal.fivem.net:30110
+[      8937] Started map fivem-map-hipster
+[      8968] Started resource fivem-map-hipster
+[     47203] Connecting: FadiAGH
+[     49734] Sending heartbeat to live-internal.fivem.net:30110
+[    229890] Sending heartbeat to live-internal.fivem.net:30110
+[    410000] Sending heartbeat to live-internal.fivem.net:30110
+[    590093] Sending heartbeat to live-internal.fivem.net:30110
+[    770156] Sending heartbeat to live-internal.fivem.net:30110
+[    872500] Sending heartbeat to live-internal.fivem.net:30110
+[   1052593] Sending heartbeat to live-internal.fivem.net:30110
+[   1232625] Sending heartbeat to live-internal.fivem.net:30110
+[   1412656] Sending heartbeat to live-internal.fivem.net:30110
+[   1592718] Sending heartbeat to live-internal.fivem.net:30110
+[   1772796] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        63] Initializing Mono completed
+[        94] Hello!
+[       204] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       204] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       235] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       266] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       297] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       329] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       344] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       360] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       375] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       391] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       407] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       438] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       454] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       469] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       485] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       500] Found new resource car 7 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car 7
+[       516] Resource loading for car%207 failed:
+[       532] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car 7/__resource.lua.
+[       547] Found new resource car1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car1
+[       563] Found new resource car2 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car2
+[       594] Found new resource car3 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car3
+[       610] Found new resource car4 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car4
+[       641] Found new resource car5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car5
+[       641] Found new resource car6 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car6
+[       672] Found new resource r8 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/r8
+[       688] Found new resource SQ5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/SQ5
+[       719] Found new resource supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/supra
+[       766] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       797] Resource loading for config failed:
+[       797] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       813] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       829] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       844] Resource loading for x64 failed:
+[       860] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       875] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       891] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       907] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       922] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       938] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       954] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       969] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1000] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1016] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1032] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1204] Started resource sessionmanager
+[      1235] Started resource mapmanager
+[      1282] Started resource chat
+[      1313] Started resource spawnmanager
+[      1344] Started gametype Freeroam
+[      1360] Started resource fivem
+[      1391] Started resource hardcap
+[      1438] Started resource rconlog
+[      1469] Started resource scoreboard
+[      1516] Started resource playernames
+[      1594] Started resource lambda-menu
+[      1610] ^3Couldn't find resource vMenu.^7
+[      2391] Started resource car1
+[      2907] Started resource car2
+[      3204] Started resource ambulance
+[      3907] Started resource car3
+[      7563] Started resource car4
+[     10235] Started resource car5
+[     21625] Started resource car6
+[     21735] ^3Couldn't find resource [vMenu].^7
+[     22875] Started resource r8
+[     25500] Started resource supra
+[     25719] Started resource SQ5
+[     25735] Authenticating server license key...
+[     29125] Server license key authentication succeeded. Welcome!
+[     29188] Sending heartbeat to live-internal.fivem.net:30110
+[     29532] Started map fivem-map-hipster
+[     29563] Started resource fivem-map-hipster
+[     29579] hitch warning: frame time of 383 milliseconds
+[     38313] Connecting: FadiAGH
+[     44094] Sending heartbeat to live-internal.fivem.net:30110
+[    224110] Sending heartbeat to live-internal.fivem.net:30110
+[    404250] Sending heartbeat to live-internal.fivem.net:30110
+[    584313] Sending heartbeat to live-internal.fivem.net:30110
+[    584750] hitch warning: frame time of 438 milliseconds
+[    667235] Sending heartbeat to live-internal.fivem.net:30110
+[    667438] hitch warning: frame time of 266 milliseconds
+[    847485] Sending heartbeat to live-internal.fivem.net:30110
+[   1027500] Sending heartbeat to live-internal.fivem.net:30110
+[   1207516] Sending heartbeat to live-internal.fivem.net:30110
+[   1387532] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        32] Initializing Mono completed
+[        47] Hello!
+[       157] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       157] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       266] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       266] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Ambu]/ambulance
+[       297] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       328] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       360] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       375] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       391] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       422] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       438] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       453] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       469] Found new resource car 7 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car 7
+[       500] Resource loading for car%207 failed:
+[       500] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car 7/__resource.lua.
+[       516] Found new resource car1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car1
+[       532] Found new resource car2 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car2
+[       563] Found new resource car3 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car3
+[       594] Found new resource car4 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car4
+[       610] Found new resource car5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car5
+[       625] Found new resource car6 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/car6
+[       641] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/quantum
+[       672] Found new resource r8 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/r8
+[       688] Found new resource SQ5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/SQ5
+[       719] Found new resource supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[policecar]/supra
+[       735] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       750] Resource loading for config failed:
+[       766] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       844] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       860] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       891] Resource loading for x64 failed:
+[       907] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       922] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       922] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       953] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1000] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1016] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1032] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1063] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1094] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1110] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1125] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1250] Started resource sessionmanager
+[      1297] Started resource mapmanager
+[      1328] Started resource chat
+[      1344] Started resource spawnmanager
+[      1360] Started gametype Freeroam
+[      1360] Started resource fivem
+[      1375] Started resource hardcap
+[      1391] Started resource rconlog
+[      1422] Started resource scoreboard
+[      1469] Started resource playernames
+[      1563] Started resource lambda-menu
+[      1563] ^3Couldn't find resource vMenu.^7
+[      1750] Started resource car1
+[      1860] Started resource car2
+[      1891] Started resource ambulance
+[      2032] Started resource car3
+[      2110] Started resource car4
+[      2235] Started resource car5
+[      2703] Started resource car6
+[      2703] ^3Couldn't find resource [vMenu].^7
+[      3282] Started resource r8
+[      4297] Started resource supra
+[      4500] Started resource SQ5
+[      5125] Started resource quantum
+[      5141] Authenticating server license key...
+[      6032] Server license key authentication succeeded. Welcome!
+[      6094] Sending heartbeat to live-internal.fivem.net:30110
+[      6157] Started map fivem-map-skater
+[      6172] Started resource fivem-map-skater
+[    141375] Connecting: FadiAGH
+[    143688] Sending heartbeat to live-internal.fivem.net:30110
+[    323844] Sending heartbeat to live-internal.fivem.net:30110
+[    504016] Sending heartbeat to live-internal.fivem.net:30110
+[    536172] hitch warning: frame time of 163 milliseconds
+[    536625] Sending heartbeat to live-internal.fivem.net:30110
+[    536657] hitch warning: frame time of 491 milliseconds
+[         0] Initializing Mono
+[       391] Initializing Mono completed
+[       469] Hello!
+[       562] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       906] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       953] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       984] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[      1000] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[      1031] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[      1047] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[      1062] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[      1078] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[      1109] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[      1125] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[      1156] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[      1172] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[      1203] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[      1219] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[      1234] Resource loading for config failed:
+[      1250] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[      1266] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[      1281] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[      1297] Resource loading for x64 failed:
+[      1312] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[      1328] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[      1344] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1359] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1375] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1406] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1437] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1453] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1469] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1484] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1500] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1516] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[      1531] Resource loading for 2018%20Dodge%20Charger failed:
+[      1547] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[      1562] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[      1578] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[      1594] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[      1609] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[      1625] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1641] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1672] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      1703] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      1719] Found new resource Dodge in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Dodge
+[      1734] Resource loading for Dodge failed:
+[      1750] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Dodge/__resource.lua.
+[      1766] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1797] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1812] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1828] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1844] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1875] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1906] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      2031] Started resource sessionmanager
+[      2078] Started resource mapmanager
+[      2109] Started resource chat
+[      2125] Started resource spawnmanager
+[      2141] Started gametype Freeroam
+[      2141] Started resource fivem
+[      2172] Started resource hardcap
+[      2187] Started resource rconlog
+[      2219] Started resource scoreboard
+[      2281] Started resource playernames
+[      2328] Started resource lambda-menu
+[      2344] ^3Couldn't find resource vMenu.^7
+[      2969] Started resource ambulance
+[      3562] Started resource 5M
+[      4141] Started resource 20tahoe
+[      4500] Started resource Bus
+[      5078] Started resource camaroRB
+[      5094] ^3Couldn't find resource [vMenu].^7
+[      6109] Started resource r820
+[      6891] Started resource camaroRB1
+[      7531] Started resource Copcar
+[      8062] Started resource quantum
+[      8078] Started resource Dodge
+[      8766] Started resource EXPL
+[      9266] Started resource Supra
+[     11094] Started resource Rescue
+[     11266] Started resource AUDsq517
+[     11437] Started resource sq5
+[     11453] Authenticating server license key...
+[     12891] Server license key authentication succeeded. Welcome!
+[     12969] Sending heartbeat to live-internal.fivem.net:30110
+[     13000] Started map fivem-map-hipster
+[     13031] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       110] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       156] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       188] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       203] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       219] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       250] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       250] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       281] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       297] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       313] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       344] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       360] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       375] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       406] Resource loading for config failed:
+[       422] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       438] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       453] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       485] Resource loading for x64 failed:
+[       485] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       500] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       516] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       531] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       547] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       578] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       594] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       610] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[       641] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[       656] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[       672] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[       703] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[       719] Resource loading for 2018%20Dodge%20Charger failed:
+[       735] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[       750] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[       766] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[       781] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[       813] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[       828] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[       860] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[       953] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[       969] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[       985] Found new resource Dodge in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Dodge
+[      1000] Resource loading for Dodge failed:
+[      1016] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Dodge/__resource.lua.
+[      1031] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1047] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1063] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1078] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1094] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1110] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1125] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      1188] Started resource sessionmanager
+[      1203] Started resource mapmanager
+[      1219] Started resource chat
+[      1235] Started resource spawnmanager
+[      1250] Started gametype Freeroam
+[      1281] Started resource fivem
+[      1297] Started resource hardcap
+[      1313] Started resource rconlog
+[      1328] Started resource scoreboard
+[      1360] Started resource playernames
+[      1391] Started resource lambda-menu
+[      1406] ^3Couldn't find resource vMenu.^7
+[      1422] Started resource ambulance
+[      1438] Started resource 5M
+[      1625] Started resource 20tahoe
+[      1828] Started resource Bus
+[      1875] Started resource camaroRB
+[      1891] ^3Couldn't find resource [vMenu].^7
+[      2391] Started resource r820
+[      2610] Started resource camaroRB1
+[      2844] Started resource Copcar
+[      2922] Started resource quantum
+[      2938] Started resource Dodge
+[      3031] Started resource EXPL
+[      3047] Started resource Supra
+[      3078] Started resource Rescue
+[      3094] Started resource AUDsq517
+[      3110] Started resource sq5
+[      3125] Authenticating server license key...
+[      6406] Server license key authentication succeeded. Welcome!
+[      6469] Sending heartbeat to live-internal.fivem.net:30110
+[      6485] Started map fivem-map-hipster
+[      6500] Started resource fivem-map-hipster
+[     41610] Connecting: FadiAGH
+[     64641] Sending heartbeat to live-internal.fivem.net:30110
+[     65000] Connecting: FadiAGH
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       141] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       188] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       204] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       235] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       266] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       282] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       329] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       344] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       375] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       391] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       407] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       422] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       454] Resource loading for config failed:
+[       469] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       485] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       485] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       516] Resource loading for x64 failed:
+[       532] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       547] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       563] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       594] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       610] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       625] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       641] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       657] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[       688] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[       704] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[       719] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[       735] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[       766] Resource loading for 2018%20Dodge%20Charger failed:
+[       766] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[       782] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[       797] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[       813] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[       829] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[       844] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[       860] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[       875] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[       891] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[       907] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[       922] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[       938] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[       938] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[       954] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[       969] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[       985] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      1047] Started resource sessionmanager
+[      1079] Started resource mapmanager
+[      1094] Started resource chat
+[      1094] Started resource spawnmanager
+[      1110] Started gametype Freeroam
+[      1125] Started resource fivem
+[      1141] Started resource hardcap
+[      1157] Started resource rconlog
+[      1172] Started resource scoreboard
+[      1204] Started resource playernames
+[      1235] Started resource lambda-menu
+[      1250] ^3Couldn't find resource vMenu.^7
+[      1266] Started resource ambulance
+[      1282] Started resource 5M
+[      1297] Started resource 20tahoe
+[      1297] Started resource Bus
+[      1313] Started resource camaroRB
+[      1329] ^3Couldn't find resource [vMenu].^7
+[      1344] Started resource r820
+[      1360] Started resource camaroRB1
+[      1375] Started resource Copcar
+[      1391] Started resource quantum
+[      1407] ^3Couldn't find resource Dodge.^7
+[      1422] Started resource EXPL
+[      1438] Started resource Supra
+[      1469] Started resource Rescue
+[      1485] Started resource AUDsq517
+[      1485] Started resource sq5
+[      1500] Authenticating server license key...
+[      2079] Server license key authentication succeeded. Welcome!
+[      2141] Sending heartbeat to live-internal.fivem.net:30110
+[      2204] Started map fivem-map-skater
+[      2204] Started resource fivem-map-skater
+[     19016] Connecting: FadiAGH
+[     19657] Sending heartbeat to live-internal.fivem.net:30110
+[    199688] Sending heartbeat to live-internal.fivem.net:30110
+[    199891] hitch warning: frame time of 166 milliseconds
+[    379907] Sending heartbeat to live-internal.fivem.net:30110
+[    560063] Sending heartbeat to live-internal.fivem.net:30110
+[    740141] Sending heartbeat to live-internal.fivem.net:30110
+[    920282] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       140] Initializing Mono completed
+[       187] Hello!
+[       265] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       281] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       375] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       375] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       390] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       422] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       422] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       437] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       484] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       500] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       515] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       531] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       547] Found new resource LSPD Ped in C:/amsterdamroleplay\cfx-server-data-master/resources//[kleding]/LSPD Ped
+[       578] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       593] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       593] Resource loading for config failed:
+[       609] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       625] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       640] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       656] Resource loading for x64 failed:
+[       656] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       672] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       687] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       703] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       734] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       750] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       750] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       765] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[       797] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[       812] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[       843] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[       859] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[       875] Resource loading for 2018%20Dodge%20Charger failed:
+[       875] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[       890] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[       906] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[       937] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[       953] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[       968] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1000] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1015] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      1047] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      1062] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1078] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1093] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1109] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1125] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1125] Found new resource Security in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Security
+[      1156] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1172] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      1297] Started resource sessionmanager
+[      1343] Started resource mapmanager
+[      1390] Started resource chat
+[      1390] Started resource spawnmanager
+[      1422] Started gametype Freeroam
+[      1422] Started resource fivem
+[      1453] Started resource hardcap
+[      1484] Started resource rconlog
+[      1500] Started resource scoreboard
+[      1547] Started resource playernames
+[      1593] Started resource lambda-menu
+[      1593] ^3Couldn't find resource vMenu.^7
+[      1672] Started resource ambulance
+[      1859] Started resource 5M
+[      1968] Started resource 20tahoe
+[      2125] Started resource Bus
+[      2172] Started resource camaroRB
+[      2172] ^3Couldn't find resource [vMenu].^7
+[      2937] Started resource r820
+[      3125] Started resource camaroRB1
+[      3234] Started resource Copcar
+[      3265] Started resource quantum
+[      3562] Started resource Security
+[      3781] Started resource EXPL
+[      3890] Started resource Supra
+[      3984] Started resource Rescue
+[      4187] Started resource AUDsq517
+[      4375] Started resource sq5
+[      4390] Authenticating server license key...
+[      5093] Server license key authentication succeeded. Welcome!
+[      5156] Sending heartbeat to live-internal.fivem.net:30110
+[      5187] Started map fivem-map-skater
+[      5203] Started resource fivem-map-skater
+[     18953] Connecting: FadiAGH
+[     19703] Sending heartbeat to live-internal.fivem.net:30110
+[    199765] Sending heartbeat to live-internal.fivem.net:30110
+[    379859] Sending heartbeat to live-internal.fivem.net:30110
+[    559906] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       188] Initializing Mono completed
+[       219] Hello!
+[       313] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       375] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       532] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       547] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       578] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       594] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       610] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       625] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       766] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       797] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       860] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       891] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       922] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       969] Found new resource LSPD Ped in C:/amsterdamroleplay\cfx-server-data-master/resources//[kleding]/LSPD Ped
+[      1125] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[      1172] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[      1266] Resource loading for config failed:
+[      1297] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[      1328] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[      1344] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[      1360] Resource loading for x64 failed:
+[      1375] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[      1391] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[      1422] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1453] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1485] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1516] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1547] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1578] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1594] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1610] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1625] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1657] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[      1688] Resource loading for 2018%20Dodge%20Charger failed:
+[      1703] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[      1735] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[      1766] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[      1828] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[      1860] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[      1891] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1907] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1985] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      2000] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      2032] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      2047] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      2063] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      2125] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      2141] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      2157] Found new resource Security in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Security
+[      2188] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      2203] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      2360] Started resource sessionmanager
+[      2453] Started resource mapmanager
+[      2532] Started resource chat
+[      2578] Started resource spawnmanager
+[      2610] Started gametype Freeroam
+[      2625] Started resource fivem
+[      2657] Started resource hardcap
+[      2672] Started resource rconlog
+[      2719] Started resource scoreboard
+[      2782] Started resource playernames
+[      2891] Started resource lambda-menu
+[      2922] ^3Couldn't find resource vMenu.^7
+[      3016] Started resource ambulance
+[      3094] Started resource 5M
+[      3188] Started resource 20tahoe
+[      3266] Started resource Bus
+[      3297] Started resource camaroRB
+[      3313] ^3Couldn't find resource [vMenu].^7
+[      3969] Started resource r820
+[      4063] Started resource camaroRB1
+[      4125] Started resource Copcar
+[      4157] Started resource quantum
+[      4485] Started resource Security
+[      4547] Started resource EXPL
+[      4625] Started resource Supra
+[      4688] Started resource Rescue
+[      4797] Started resource AUDsq517
+[      4907] Started resource sq5
+[      4922] Authenticating server license key...
+[      6891] Server license key authentication succeeded. Welcome!
+[      6953] Sending heartbeat to live-internal.fivem.net:30110
+[      6969] Started map fivem-map-skater
+[      6985] Started resource fivem-map-skater
+[    186969] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       141] Initializing Mono completed
+[       156] Hello!
+[       297] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       313] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       328] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       375] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       406] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       438] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       453] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       485] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       500] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       531] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       547] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       578] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       610] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       610] Found new resource LSPD Ped in C:/amsterdamroleplay\cfx-server-data-master/resources//[kleding]/LSPD Ped
+[       641] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       672] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       688] Resource loading for config failed:
+[       703] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       719] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       735] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       750] Resource loading for x64 failed:
+[       766] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[       797] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[       813] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[       860] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[       875] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[       906] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[       938] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[       953] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1000] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1016] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1031] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1063] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[      1078] Resource loading for 2018%20Dodge%20Charger failed:
+[      1094] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[      1110] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[      1141] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[      1156] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[      1172] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[      1203] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1235] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1250] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      1266] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      1297] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1313] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1344] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1360] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1375] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1406] Found new resource Security in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Security
+[      1422] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1438] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      1516] Started resource sessionmanager
+[      1563] Started resource mapmanager
+[      1578] Started resource chat
+[      1610] Started resource spawnmanager
+[      1625] Started gametype Freeroam
+[      1641] Started resource fivem
+[      1672] Started resource hardcap
+[      1703] Started resource rconlog
+[      1735] Started resource scoreboard
+[      1875] Started resource playernames
+[      1938] Started resource lambda-menu
+[      1938] ^3Couldn't find resource vMenu.^7
+[      2375] Started resource ambulance
+[      2469] Started resource 5M
+[      2531] Started resource 20tahoe
+[      2610] Started resource Bus
+[      2625] Started resource camaroRB
+[      2641] ^3Couldn't find resource [vMenu].^7
+[      3172] Started resource r820
+[      3266] Started resource camaroRB1
+[      3328] Started resource Copcar
+[      3344] Started resource quantum
+[      3813] Started resource Security
+[      4000] Started resource EXPL
+[      4188] Started resource Supra
+[      4235] Started resource Rescue
+[      4391] Started resource AUDsq517
+[      4547] Started resource sq5
+[      4563] Authenticating server license key...
+[      8547] Server license key authentication succeeded. Welcome!
+[      8610] Sending heartbeat to live-internal.fivem.net:30110
+[      8625] Started map fivem-map-skater
+[      8641] Started resource fivem-map-skater
+[         0] Initializing Mono
+[        93] Initializing Mono completed
+[       125] Hello!
+[       203] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       265] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       296] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       312] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       328] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       343] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       359] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       390] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       421] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       437] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       453] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       468] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       500] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       562] Found new resource LSPD Ped in C:/amsterdamroleplay\cfx-server-data-master/resources//[kleding]/LSPD Ped
+[       593] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[       625] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[       703] Resource loading for config failed:
+[       750] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[       828] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[       921] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[       953] Resource loading for x64 failed:
+[       984] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[      1000] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[      1031] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1156] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1250] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1265] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1296] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1328] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1375] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1421] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1468] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1500] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[      1531] Resource loading for 2018%20Dodge%20Charger failed:
+[      1546] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[      1562] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[      1593] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[      1609] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[      1640] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[      1656] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1687] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1703] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      1718] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      1734] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1750] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1765] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1781] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1796] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1828] Found new resource Security in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Security
+[      1859] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1890] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      1968] Started resource sessionmanager
+[      2015] Started resource mapmanager
+[      2046] Started resource chat
+[      2062] Started resource spawnmanager
+[      2078] Started gametype Freeroam
+[      2093] Started resource fivem
+[      2125] Started resource hardcap
+[      2156] Started resource rconlog
+[      2156] Started resource scoreboard
+[      2203] Started resource playernames
+[      2265] Started resource lambda-menu
+[      2281] ^3Couldn't find resource vMenu.^7
+[      2437] Started resource ambulance
+[      2500] Started resource 5M
+[      2625] Started resource 20tahoe
+[      2781] Started resource Bus
+[      2796] Started resource camaroRB
+[      2812] ^3Couldn't find resource [vMenu].^7
+[      3796] Started resource r820
+[      4062] Started resource camaroRB1
+[      4265] Started resource Copcar
+[      4296] Started resource quantum
+[      4453] Started resource Security
+[      4515] Started resource EXPL
+[      4609] Started resource Supra
+[      4703] Started resource Rescue
+[      4859] Started resource AUDsq517
+[      4953] Started resource sq5
+[      4968] Authenticating server license key...
+[      6171] Server license key authentication succeeded. Welcome!
+[      6250] Sending heartbeat to live-internal.fivem.net:30110
+[      6281] Started map fivem-map-skater
+[      6296] Started resource fivem-map-skater
+[    563218] Connecting: FadiAGH
+[    563328] hitch warning: frame time of 519707 milliseconds
+[    563359] Sending heartbeat to live-internal.fivem.net:30110
+[    563687] hitch warning: frame time of 351 milliseconds
+[    700765] Connecting: FadiAGH
+[    702875] Sending heartbeat to live-internal.fivem.net:30110
+[    882921] Sending heartbeat to live-internal.fivem.net:30110
+[   1063078] Sending heartbeat to live-internal.fivem.net:30110
+[   1063296] hitch warning: frame time of 218 milliseconds
+[   1142843] Sending heartbeat to live-internal.fivem.net:30110
+[   1143531] hitch warning: frame time of 681 milliseconds
+[   1323562] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       407] Initializing Mono completed
+[       469] Hello!
+[       547] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       688] Found new resource fivem in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem
+[       719] Found new resource fivem-awesome1501 in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-awesome1501
+[       735] Found new resource fivem-map-hipster in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-hipster
+[       750] Found new resource fivem-map-skater in C:/amsterdamroleplay\cfx-server-data-master/resources//fivem-map-skater
+[       766] Found new resource runcode in C:/amsterdamroleplay\cfx-server-data-master/resources//runcode
+[       782] Found new resource race in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race
+[       797] Found new resource race-test in C:/amsterdamroleplay\cfx-server-data-master/resources//[gamemodes]/race-test
+[       828] Found new resource channelfeed in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       844] Found new resource irc in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/irc
+[       860] Found new resource obituary in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary
+[       891] Found new resource obituary-deaths in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       907] Found new resource playernames in C:/amsterdamroleplay\cfx-server-data-master/resources//[gameplay]/playernames
+[       922] Found new resource LSPD Ped in C:/amsterdamroleplay\cfx-server-data-master/resources//[kleding]/LSPD Ped
+[       985] Found new resource mapmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[managers]/mapmanager
+[      1016] Found new resource config in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config
+[      1047] Resource loading for config failed:
+[      1047] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/config/__resource.lua.
+[      1063] Found new resource lambda-menu in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/lambda-menu
+[      1078] Found new resource x64 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64
+[      1094] Resource loading for x64 failed:
+[      1094] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Scripts]/x64/__resource.lua.
+[      1110] Found new resource baseevents in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/baseevents
+[      1125] Found new resource chat in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/chat
+[      1141] Found new resource hardcap in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/hardcap
+[      1172] Found new resource rconlog in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/rconlog
+[      1188] Found new resource scoreboard in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/scoreboard
+[      1203] Found new resource sessionmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/sessionmanager
+[      1219] Found new resource spawnmanager in C:/amsterdamroleplay\cfx-server-data-master/resources//[system]/spawnmanager
+[      1235] Found new resource betaguns in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/betaguns
+[      1250] Found new resource gameInit in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/gameInit
+[      1282] Found new resource keks in C:/amsterdamroleplay\cfx-server-data-master/resources//[test]/keks
+[      1313] Found new resource 2018 Dodge Charger in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger
+[      1391] Resource loading for 2018%20Dodge%20Charger failed:
+[      1407] Could not open resource metadata file C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/2018 Dodge Charger/__resource.lua.
+[      1407] Found new resource 20tahoe in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/20tahoe
+[      1422] Found new resource 5M in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/5M
+[      1453] Found new resource ambulance in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/ambulance
+[      1469] Found new resource AUDsq517 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/AUDsq517
+[      1485] Found new resource Bus in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Bus
+[      1500] Found new resource camaroRB in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB
+[      1563] Found new resource camaroRB1 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/camaroRB1
+[      1563] Found new resource Copcar in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Copcar
+[      1578] Found new resource EXPL in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/EXPL
+[      1610] Found new resource mcc in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/mcc
+[      1625] Found new resource quantum in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/quantum
+[      1672] Found new resource r820 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/r820
+[      1688] Found new resource Rescue in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Rescue
+[      1703] Found new resource Security in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Security
+[      1719] Found new resource sq5 in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/sq5
+[      1735] Found new resource Supra in C:/amsterdamroleplay\cfx-server-data-master/resources//[Voertuigen]/Supra
+[      2000] Started resource sessionmanager
+[      2125] Started resource mapmanager
+[      2766] Started resource chat
+[      2907] Started resource spawnmanager
+[      2938] Started gametype Freeroam
+[      2938] Started resource fivem
+[      2985] Started resource hardcap
+[      3032] Started resource rconlog
+[      3282] Started resource scoreboard
+[      3453] Started resource playernames
+[      3907] Started resource lambda-menu
+[      3907] ^3Couldn't find resource vMenu.^7
+[      4157] Started resource ambulance
+[      4391] Started resource 5M
+[      4610] Started resource 20tahoe
+[      4985] Started resource Bus
+[      5141] Started resource camaroRB
+[      5141] ^3Couldn't find resource [vMenu].^7
+[      5844] Started resource r820
+[      6047] Started resource camaroRB1
+[      6219] Started resource Copcar
+[      6516] Started resource quantum
+[      6907] Started resource Security
+[      7110] Started resource EXPL
+[      7360] Started resource Supra
+[      7985] Started resource Rescue
+[      8313] Started resource AUDsq517
+[      8516] Started resource sq5
+[      8563] Authenticating server license key...
+[     14344] Server license key authentication succeeded. Welcome!
+[     14422] Sending heartbeat to live-internal.fivem.net:30110
+[     14516] Started map fivem-map-hipster
+[     14532] Started resource fivem-map-hipster
